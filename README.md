@@ -1,5 +1,3 @@
 # RULER
 
-Data can be seen in https://huggingface.co/datasets/zhm0/CheST
-
-We will release code soon...
+Data and model checkpoint can be seen in https://github.com/Hanmeng-Zhong/Hiro-Chemical-Insights
