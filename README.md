@@ -1,3 +1,4 @@
 # RULER
 
-Data and model checkpoint can be seen in https://github.com/Hanmeng-Zhong/Hiro-Chemical-Insights
+Code can be seen in https://github.com/patsnap/Hiro-Chemical-Insights
+Model checkpoint can be seen in https://huggingface.co/PatSnap/Hiro-Chemical-Insights
